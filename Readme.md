@@ -72,3 +72,10 @@ Ez a projekt egy technikai bemutató céljára készült, így bizonyos funkció
 ```bash
 ./mvnw spring-boot:run
 ```
+### Frontend
+1. Navigálj a főkönyvtárba.
+2. Telepíts a szükséges könyvtárakat.
+3. Indítsd el az alkalmazást:
+```bash
+./npm start run
+```
