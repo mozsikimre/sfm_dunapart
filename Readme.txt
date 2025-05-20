@@ -73,3 +73,4 @@ Ez a projekt egy technikai bemutató céljára készült, így bizonyos funkció
 2. Indítsd el az alkalmazást:
 ```bash
 ./mvnw spring-boot:run
+```
