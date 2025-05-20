@@ -11,7 +11,7 @@ Egy teljes stackes webalkalmazás, amely egy digitális parkolókezelő rendszer
 ## 🌐 Funkcionalitás
 
 ### 🏠 Kezdőoldal
-- Üdvözlő képernyő nem bejelentkezett felhasználók számára.
+- Üdvözlő képernyő felhasználók számára.
 - Megjelennek a felhasználóhoz tartozó autók (ha van aktív parkolásuk).
 - Autó hozzáadása gomb.
 - Parkolások törlése / hosszabbítása gombok.
@@ -25,8 +25,9 @@ Egy teljes stackes webalkalmazás, amely egy digitális parkolókezelő rendszer
 ### 🚙 Garázs / Autóválasztó
 - A felhasználó autóinak listája kártyás formában.
 - Kártyán megjelenített adatok: típushoz tartozó stock kép, autó neve, rendszám, típus és szín.
+- Autó hozzáadása gomb.
 - Autó törlése / szerkesztése gomb.
-- Aktív autó kiválasztásának lehetősége (fehér keret jelzi).
+- Aktív autó kiválasztásának lehetősége.
 
 ### 🗓️ Időpont Foglaló
 - Csak aktív autó esetén használható.
@@ -46,7 +47,6 @@ Egy teljes stackes webalkalmazás, amely egy digitális parkolókezelő rendszer
 
 ### 🧭 Navigációs Sáv
 - Drag & drop funkcióval mozgatható navigációs panel.
-- Pozíció tárolása `localStorage`-ben (kitart oldalak között).
 - Mágneses igazítás az oldal széléhez.
 - Összecsukható nyíl a felső részén.
 - Navigációs elemek:
